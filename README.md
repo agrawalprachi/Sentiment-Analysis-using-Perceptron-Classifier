@@ -1,2 +1,2 @@
-# sentiment-analysis_using-perceptron-classifier
+# sentiment-analysis-using-perceptron-classifier
 Natural Language Sentiment Analysis Project
